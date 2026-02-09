@@ -1,0 +1,95 @@
+{
+  "HomeView": {
+    "title": "PostGen",
+    "newVisual": "New Visual",
+    "emptyVisualTitle": "Start Creating Visuals",
+    "generateVisual": "Generate Visual",
+    "trLang": "Turkish",
+    "enLang": "English",
+    "DeleteImageDialog": {
+      "title": "Delete Images",
+      "subTitle": "Are you sure you want to delete the selected collection?\nThis action cannot be undone.",
+      "delete": "Delete",
+      "cancel": "Cancel"
+    }
+  },
+
+  "GenerateVisualView": {
+    "appBarTitle": "Generate Visual",
+    "nextButtonText": "Next",
+    "previousButtonText": "Back",
+    "generateVisual": "Generate Visual",
+    "errorMessage": "Something went wrong, the visuals couldn't be prepared.",
+    "VisualDescription": {
+      "labelText": "*Describe how you want your visual to look\n*Mention location, time, or mood.\n*E.g., A minimalist landscape with mountains and a river at sunset.",
+      "hintText": "Describe your visual"
+    },
+    "PostType": {
+      "title": "Choose a post type",
+      "PostTypeOptions": {
+        "post": "Social Media Post",
+        "story": "Social Media Story",
+        "messaging": "Messaging Apps",
+        "personal": "Personal Inspiration"
+      }
+    },
+
+    "VisualMood": {
+      "title": "Select Visual Mood",
+      "VisualMoodItems": {
+        "calm": "Calm",
+        "inspirational": "Inspirational",
+        "minimalist": "Minimalist",
+        "emotional": "Emotional",
+        "spiritual": "Spiritual",
+        "bold": "Bold"
+      }
+    },
+
+    "ColorTone": {
+      "title": "Select Color Tone",
+      "ColorToneItems": {
+        "BW": "B&W",
+        "dark": "Dark",
+        "light": "Light",
+        "pastel": "Pastel",
+        "purple": "Purple",
+        "blue": "Blue",
+        "green": "Green",
+        "warm": "Warm",
+        "pink": "Pink"
+      }
+    },
+    "VisualText": {
+      "title": "Visual Text",
+      "subTitle": "Show text on visual?",
+      "hintText": "Enter the text to display",
+      "TextStyle": {
+        "title": "Text Style",
+        "TextStyleItems": {
+          "modern": "Modern",
+          "minimal": "Minimal",
+          "handwritten": "Handwritten",
+          "classic": "Classic",
+          "rounded": "Rounded",
+          "bold": "Bold"
+        }
+      }
+    }
+  },
+  "VisualView": {
+    "appBarTitle": "Generated Visuals",
+    "title": "AI-Powered Visuals",
+    "changeStyleButtonText": "Change Style",
+    "SaveToGalleryDialog": {
+      "saveButtonText": "Save to Gallery",
+      "successMessage": "Success! Image downloaded.",
+      "unSuccessMessage": "Failed! An error occurred."
+    }
+  },
+
+  "GlobalTexts": {
+    "close": "Kapat",
+    "download": "İndir"
+  }
+}

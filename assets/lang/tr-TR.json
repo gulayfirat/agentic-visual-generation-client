@@ -1,0 +1,94 @@
+{
+  "HomeView": {
+    "title": "PostGen, ",
+    "newVisual": "Yeni Görsel",
+    "emptyVisualTitle": "Görsel Oluşturmaya Başlayın",
+    "generateVisual": "Görsel Oluştur",
+    "trLang": "Türkçe",
+    "enLang": "İngilizce",
+    "DeleteImageDialog": {
+      "title": "Görselleri Sil",
+      "subTitle": "Seçilen görsel koleksiyonunu silmek istediğinize emin misiniz?\nBu işlem geri alınamaz.",
+      "delete": "Sil",
+      "cancel": "Vazgeç"
+    }
+  },
+
+  "GenerateVisualView": {
+    "appBarTitle": "Görsel Oluştur",
+    "nextButtonText": "Sonraki",
+    "previousButtonText": "Geri",
+    "generateVisual": "Görsel Oluştur",
+    "errorMessage": "Bir şeyler ters gitti, görseller hazırlanamadı.",
+    "VisualDescription": {
+      "labelText": "*Görselin nasıl görünmesini istediğinizi yazın\n*Mekân, zaman veya duygu belirtebilirsiniz.\n*Örneğin; Gün batımında dağlar ve nehir içeren minimalist tarzda bir manzara.",
+      "hintText": "Oluşturulacak görseli tanımlayın"
+    },
+    "PostType": {
+      "title": "Ne için bir gönderi türü oluşturmak istersiniz?",
+      "PostTypeOptions": {
+        "post": "Sosyal Medya Gönderisi",
+        "story": "Sosyal Medya Hikayesi",
+        "messaging": "Mesajlaşma Uygulamaları",
+        "personal": "Kişisel İlham"
+      }
+    },
+
+    "VisualMood": {
+      "title": "Görsel Modunuzu Seçiniz",
+      "VisualMoodItems": {
+        "calm": "Sakin",
+        "inspirational": "İlham Verici",
+        "minimalist": "Minimalist",
+        "emotional": "Duygusal",
+        "spiritual": "Manevi",
+        "bold": "Cesur"
+      }
+    },
+
+    "ColorTone": {
+      "title": "Renk Tonunuzu Seçiniz",
+      "ColorToneItems": {
+        "BW": "S&B",
+        "dark": "Koyu",
+        "light": "Açık",
+        "pastel": "Pastel",
+        "purple": "Mor",
+        "blue": "Mavi",
+        "green": "Yeşil",
+        "warm": "Sıcak",
+        "pink": "Pembe"
+      }
+    },
+    "VisualText": {
+      "title": "Görsel Modunuzu Seçiniz",
+      "subTitle": "Görsel üzerinde metin gösterilsin mi?",
+      "hintText": "Görsel üzerinde gösterilecek metni yazın",
+      "TextStyle": {
+        "title": "Yazı Stili",
+        "TextStyleItems": {
+          "modern": "Modern",
+          "minimal": "Minimal",
+          "handwritten": "El Yazısı",
+          "classic": "Klasik",
+          "rounded": "Yuvarlak",
+          "bold": "Kalın"
+        }
+      }
+    }
+  },
+  "VisualView": {
+    "appBarTitle": "Oluşturulan Görseller",
+    "title": "Yapay Zeka Destekli Görseller",
+    "changeStyleButtonText": "Stili Değiştir",
+    "SaveToGalleryDialog": {
+      "saveButtonText": "Galeriye Kaydet",
+      "successMessage": "Başarılı! Görsel İndirildi.",
+      "unSuccessMessage": "Başarısız! Hata Oluştu."
+    }
+  },
+  "GlobalTexts": {
+    "close": "Kapat",
+    "download": "İndir"
+  }
+}

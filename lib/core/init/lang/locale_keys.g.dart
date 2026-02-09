@@ -1,0 +1,80 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+// ignore_for_file: constant_identifier_names
+
+abstract class  LocaleKeys {
+  static const HomeView_title = 'HomeView.title';
+  static const HomeView_newVisual = 'HomeView.newVisual';
+  static const HomeView_emptyVisualTitle = 'HomeView.emptyVisualTitle';
+  static const HomeView_generateVisual = 'HomeView.generateVisual';
+  static const HomeView_trLang = 'HomeView.trLang';
+  static const HomeView_enLang = 'HomeView.enLang';
+  static const HomeView_DeleteImageDialog_title = 'HomeView.DeleteImageDialog.title';
+  static const HomeView_DeleteImageDialog_subTitle = 'HomeView.DeleteImageDialog.subTitle';
+  static const HomeView_DeleteImageDialog_delete = 'HomeView.DeleteImageDialog.delete';
+  static const HomeView_DeleteImageDialog_cancel = 'HomeView.DeleteImageDialog.cancel';
+  static const HomeView_DeleteImageDialog = 'HomeView.DeleteImageDialog';
+  static const HomeView = 'HomeView';
+  static const GenerateVisualView_appBarTitle = 'GenerateVisualView.appBarTitle';
+  static const GenerateVisualView_nextButtonText = 'GenerateVisualView.nextButtonText';
+  static const GenerateVisualView_previousButtonText = 'GenerateVisualView.previousButtonText';
+  static const GenerateVisualView_generateVisual = 'GenerateVisualView.generateVisual';
+  static const GenerateVisualView_errorMessage = 'GenerateVisualView.errorMessage';
+  static const GenerateVisualView_VisualDescription_labelText = 'GenerateVisualView.VisualDescription.labelText';
+  static const GenerateVisualView_VisualDescription_hintText = 'GenerateVisualView.VisualDescription.hintText';
+  static const GenerateVisualView_VisualDescription = 'GenerateVisualView.VisualDescription';
+  static const GenerateVisualView_PostType_title = 'GenerateVisualView.PostType.title';
+  static const GenerateVisualView_PostType_PostTypeOptions_post = 'GenerateVisualView.PostType.PostTypeOptions.post';
+  static const GenerateVisualView_PostType_PostTypeOptions_story = 'GenerateVisualView.PostType.PostTypeOptions.story';
+  static const GenerateVisualView_PostType_PostTypeOptions_messaging = 'GenerateVisualView.PostType.PostTypeOptions.messaging';
+  static const GenerateVisualView_PostType_PostTypeOptions_personal = 'GenerateVisualView.PostType.PostTypeOptions.personal';
+  static const GenerateVisualView_PostType_PostTypeOptions = 'GenerateVisualView.PostType.PostTypeOptions';
+  static const GenerateVisualView_PostType = 'GenerateVisualView.PostType';
+  static const GenerateVisualView_VisualMood_title = 'GenerateVisualView.VisualMood.title';
+  static const GenerateVisualView_VisualMood_VisualMoodItems_calm = 'GenerateVisualView.VisualMood.VisualMoodItems.calm';
+  static const GenerateVisualView_VisualMood_VisualMoodItems_inspirational = 'GenerateVisualView.VisualMood.VisualMoodItems.inspirational';
+  static const GenerateVisualView_VisualMood_VisualMoodItems_minimalist = 'GenerateVisualView.VisualMood.VisualMoodItems.minimalist';
+  static const GenerateVisualView_VisualMood_VisualMoodItems_emotional = 'GenerateVisualView.VisualMood.VisualMoodItems.emotional';
+  static const GenerateVisualView_VisualMood_VisualMoodItems_spiritual = 'GenerateVisualView.VisualMood.VisualMoodItems.spiritual';
+  static const GenerateVisualView_VisualMood_VisualMoodItems_bold = 'GenerateVisualView.VisualMood.VisualMoodItems.bold';
+  static const GenerateVisualView_VisualMood_VisualMoodItems = 'GenerateVisualView.VisualMood.VisualMoodItems';
+  static const GenerateVisualView_VisualMood = 'GenerateVisualView.VisualMood';
+  static const GenerateVisualView_ColorTone_title = 'GenerateVisualView.ColorTone.title';
+  static const GenerateVisualView_ColorTone_ColorToneItems_BW = 'GenerateVisualView.ColorTone.ColorToneItems.BW';
+  static const GenerateVisualView_ColorTone_ColorToneItems_dark = 'GenerateVisualView.ColorTone.ColorToneItems.dark';
+  static const GenerateVisualView_ColorTone_ColorToneItems_light = 'GenerateVisualView.ColorTone.ColorToneItems.light';
+  static const GenerateVisualView_ColorTone_ColorToneItems_pastel = 'GenerateVisualView.ColorTone.ColorToneItems.pastel';
+  static const GenerateVisualView_ColorTone_ColorToneItems_purple = 'GenerateVisualView.ColorTone.ColorToneItems.purple';
+  static const GenerateVisualView_ColorTone_ColorToneItems_blue = 'GenerateVisualView.ColorTone.ColorToneItems.blue';
+  static const GenerateVisualView_ColorTone_ColorToneItems_green = 'GenerateVisualView.ColorTone.ColorToneItems.green';
+  static const GenerateVisualView_ColorTone_ColorToneItems_warm = 'GenerateVisualView.ColorTone.ColorToneItems.warm';
+  static const GenerateVisualView_ColorTone_ColorToneItems_pink = 'GenerateVisualView.ColorTone.ColorToneItems.pink';
+  static const GenerateVisualView_ColorTone_ColorToneItems = 'GenerateVisualView.ColorTone.ColorToneItems';
+  static const GenerateVisualView_ColorTone = 'GenerateVisualView.ColorTone';
+  static const GenerateVisualView_VisualText_title = 'GenerateVisualView.VisualText.title';
+  static const GenerateVisualView_VisualText_subTitle = 'GenerateVisualView.VisualText.subTitle';
+  static const GenerateVisualView_VisualText_hintText = 'GenerateVisualView.VisualText.hintText';
+  static const GenerateVisualView_VisualText_TextStyle_title = 'GenerateVisualView.VisualText.TextStyle.title';
+  static const GenerateVisualView_VisualText_TextStyle_TextStyleItems_modern = 'GenerateVisualView.VisualText.TextStyle.TextStyleItems.modern';
+  static const GenerateVisualView_VisualText_TextStyle_TextStyleItems_minimal = 'GenerateVisualView.VisualText.TextStyle.TextStyleItems.minimal';
+  static const GenerateVisualView_VisualText_TextStyle_TextStyleItems_handwritten = 'GenerateVisualView.VisualText.TextStyle.TextStyleItems.handwritten';
+  static const GenerateVisualView_VisualText_TextStyle_TextStyleItems_classic = 'GenerateVisualView.VisualText.TextStyle.TextStyleItems.classic';
+  static const GenerateVisualView_VisualText_TextStyle_TextStyleItems_rounded = 'GenerateVisualView.VisualText.TextStyle.TextStyleItems.rounded';
+  static const GenerateVisualView_VisualText_TextStyle_TextStyleItems_bold = 'GenerateVisualView.VisualText.TextStyle.TextStyleItems.bold';
+  static const GenerateVisualView_VisualText_TextStyle_TextStyleItems = 'GenerateVisualView.VisualText.TextStyle.TextStyleItems';
+  static const GenerateVisualView_VisualText_TextStyle = 'GenerateVisualView.VisualText.TextStyle';
+  static const GenerateVisualView_VisualText = 'GenerateVisualView.VisualText';
+  static const GenerateVisualView = 'GenerateVisualView';
+  static const VisualView_appBarTitle = 'VisualView.appBarTitle';
+  static const VisualView_title = 'VisualView.title';
+  static const VisualView_changeStyleButtonText = 'VisualView.changeStyleButtonText';
+  static const VisualView_SaveToGalleryDialog_saveButtonText = 'VisualView.SaveToGalleryDialog.saveButtonText';
+  static const VisualView_SaveToGalleryDialog_successMessage = 'VisualView.SaveToGalleryDialog.successMessage';
+  static const VisualView_SaveToGalleryDialog_unSuccessMessage = 'VisualView.SaveToGalleryDialog.unSuccessMessage';
+  static const VisualView_SaveToGalleryDialog = 'VisualView.SaveToGalleryDialog';
+  static const VisualView = 'VisualView';
+  static const GlobalTexts_close = 'GlobalTexts.close';
+  static const GlobalTexts_download = 'GlobalTexts.download';
+  static const GlobalTexts = 'GlobalTexts';
+
+}
